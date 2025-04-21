@@ -29,3 +29,4 @@ You can install the required dependencies using pip:
 
 ```bash
 pip install nltk
+pip install nltk updated
